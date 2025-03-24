@@ -1,0 +1,63 @@
+body {
+    background-color: beige;
+    border: 10px solid transparent;
+    padding: -5px;
+    border-image: url(htmlborder.gif) 5 round;
+}
+p {
+    font-family: "Gaegu", serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+h2{
+    font-family: "Outfit", serif;
+    text-align: center;
+}
+
+a {
+    font-family: "Varela Round", serif;
+    font-size: 15px;
+    color: rgba(28, 76, 22, 0.579)
+}
+h1{
+    font-family: "Varela Round", serif;
+    text-shadow: -3px -3px 0 #ffffff, 3px -3px 0 #ffffff, -3px 3px #ffffff, 3px 3px 0 #ffffff;
+}
+ul{
+    padding: 10px;
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+header {
+    text-align: center;
+    background: url("images/catHeader.jpeg");
+    background-size: cover;
+    padding: 20px 0px 0px 0px;
+    color: pink;
+}
+h1{
+    font-size: 55px;
+}
+img {
+    border-radius: 15px;
+}
+#header-pic {
+    margin: 40px 0px 0px 0px;
+    border: pink;
+    border-width: 7px;
+    border-style: solid;
+    border-radius: 15px;
+
+}
+.centerImages{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.headerLine{
+    background: rgba(255, 249, 217, 0.5);
+    padding: 8px;
+}
