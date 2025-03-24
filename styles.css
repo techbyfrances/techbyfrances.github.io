@@ -1,8 +1,9 @@
 body {
     background-color: beige;
     border: 10px solid transparent;
-    padding: 10px;
     border-image: url(htmlborder.gif) 5 round;
+    margin: 20px;
+    margin-top: 20px;
 }
 p {
     font-family: "Gaegu", serif;
@@ -61,3 +62,4 @@ img {
     background: rgba(255, 249, 217, 0.5);
     padding: 8px;
 }
+
